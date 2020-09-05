@@ -12,6 +12,10 @@ body {
     margin: 0px;
 }
 
+img {
+    image-rendering: pixelated;
+}
+
 /* Styling for the top navigation bar */
 .navbar {
     overflow: hidden;
