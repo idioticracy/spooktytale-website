@@ -1,3 +1,4 @@
+document.write("<img src=\"logo.png\" style=\"display:block;margin-left:auto;margin-right:auto;\">");
 document.write("    <nav class=\"navbar\">");
 document.write("      <div>");
 document.write("        <a href=\"index.html\">HOME<\/a>");
