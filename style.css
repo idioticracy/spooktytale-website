@@ -32,7 +32,7 @@ img {
 
 .navbar div
 {
-    width: 640px;
+    width: 740px;
     height: 75px;
     padding-right: 15px;
     padding-left: 15px;
@@ -54,3 +54,10 @@ img {
 .navbar div a:hover {
     color: #c0c0c0;
   }
+  
+  footer {
+    color: gray;
+    font-family: '8bitoperator JVE';
+    font-size: 50%;
+    margin: 0px;
+}
